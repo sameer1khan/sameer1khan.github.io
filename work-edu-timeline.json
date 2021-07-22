@@ -1,0 +1,532 @@
+{
+  "events": [
+    {
+      "media": {
+        "url": "https://i.ibb.co/dbDLw1m/hero-campus-birdseye-1.jpg",
+        "credit": "",
+        "caption": "UIowa Campus",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2007",
+        "month": "07",
+        "day": ""
+      },
+      "end_date": {
+        "year": "2010",
+        "month": "07",
+        "day": ""
+      },
+      "text": {
+        "headline": "Masters of Industrial Engineering",
+        "text": "<p><b>MSc Graduate Student</b> \n<br>Cognitive Systems Laboratory (CSL), \n<br>University of Iowa, Iowa City, USA"
+      },
+      "group": "2",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://i.ibb.co/Gxh0xKn/rvB4DRK.jpg",
+        "credit": "",
+        "caption": "Drone operations EEG",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2007",
+        "month": "10",
+        "day": ""
+      },
+      "end_date": {
+        "year": "2008",
+        "month": "05",
+        "day": ""
+      },
+      "text": {
+        "headline": "Drone Control Systems Usability",
+        "text": "Research Assistant via CSL for US Defense Advanced Research Projects Agency (DARPA)\n<br><ul>\n             <li>Designed iconography and tabbed display of:</li> \n             <ul>\n                   <li>Mission parameters</li>\n                   <li>Drone heading, health and telemetry</li>\n             </ul>\n             <li>Evaluated users' trust in automation using:\n             <ul>\n                   <li>Overlaid survey questions on UI during simulations\n                   <li>Ethnography\n             </ul>\n             <li>Independently studied <a href=\"https://www.sciencedirect.com/science/article/pii/S0165027014002702\">use of EEG and ECG</a> for identifying <a href=\"https://en.wikipedia.org/wiki/Eureka_effect\">\"Aha!\n moments\"</a>\n       </ul> "
+      },
+      "group": "3",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://now.uiowa.edu/sites/now.uiowa.edu/files/styles/640_wide/public/driving-simulator-640.jpg?itok=GD4-M0Mi",
+        "credit": "",
+        "caption": "Driving simulator with eye tracking cameras",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2008",
+        "month": "6",
+        "day": ""
+      },
+      "end_date": {
+        "year": "2009",
+        "month": "08",
+        "day": ""
+      },
+      "text": {
+        "headline": "Vehicle Operator Analysis",
+        "text": "Research Assistant via CSL for US Federal Highway Administration (FHWA)\n<p><a href=\"https://ir.uiowa.edu/etd/689/\">Masters Thesis: Liminal, Subliminal and Supraliminal (Re)Actions.</a>\n<br><ul>\n             <li>Designed scenarios and programmed driving simulator</li> \n             <li>Recruited test participants</li>\n             <li>Analyzed driving behavior using:</li>\n             <ul>\n                   <li>Human body movement tracking\n                   <li>Recording ensamble or environmental changes</li>\n             </ul>\n       </ul> "
+      },
+      "group": "2",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://drive.google.com/file/d/1ihQEA9ry6c7i01DQj5MBSWjXsMoCzt4P/view?usp=sharing",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2009",
+        "month": "1",
+        "day": ""
+      },
+      "end_date": {
+        "year": "",
+        "month": "",
+        "day": ""
+      },
+      "text": {
+        "headline": "Subliminal Traffic Control",
+        "text": "<p>During the experiment, <a href=\"https://ibb.co/G7ySf63\">beacons on barrels</a> were uniformly arranged <b>x</b> m apart along the workzone boundary in the simulator's virtual environment. Each subsequent beacon was initialized to flash off-on-off with a span of <b>t</b> s with respect to ground. This created an apparant wave pattern among the strobing light devices directed towards the oncoming vechicle (observer). None of the participants reported noticing the runway lights like pattern directed towards them in their exit survey. Each participant confirmed seeing a glowing <a href=\"https://ibb.co/dPkvPZV\">beacon on the traffic barrels</a> demarkating only one workzone - the static light condition workzone. \n\n<p>The particular wavelength or color of light from the virtual reality beacons was designed to be as close as possible to amber color of sodium vapor lamp warning beacons used as traffic control devices in North America and the UK. For the model however, the physical parameter of light's wavelength while passing through air, fog, car windshield and human eye was taken as a scalar \"unit\". This scalar quantity of 1 was appropriate for the model to account for the incident light on the driver's eyes as the \"unit interaction layer\" of electromagnetic spectrum suitably coupled to or entangled with their naked or aided human eye. Thus, in an abstract sense, each impinging spherical waveform, with its idiosyncrasies, couples to the optical sensor at unit area of incidence or cross section or hyperplane, along each conceivalbe dimensionality. The image on this page depicts projection of those hyperplanes from 4D of space and 0D of time into a convention of 3D of space and 1D of time. Coincidentally, identical visualizations are achieved when modeling thermodinamics of energy transductions or momenta transferences as well as communication of any <i>message, medium and mode</i> between a sender and a recipient. \n\n<p>Conjoined effects of spacetime curvature and eyebal curvature was approximated as height of drivers' eyes above ground level denoted by <b>N</b>. It was taken as an average height of 1.6 m for adult dirvers in a sedan. This serendipitously worked out very well for the model.  "
+      },
+      "group": "4",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://drive.google.com/file/d/1ihQEA9ry6c7i01DQj5MBSWjXsMoCzt4P/view?usp=sharing",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2009",
+        "month": "1",
+        "day": ""
+      },
+      "end_date": {
+        "year": "",
+        "month": "",
+        "day": ""
+      },
+      "text": {
+        "headline": "Subliminal Traffic Control",
+        "text": "<p>Within the model, the frequency of such discrete, light pulses incident on the observer is the \"optical edge rate\" <b>E</b> per s. It depends on the car's i.e. the eye balls' instant ground speed <b>V<sub>2</sub></b> in m/s \"conjoined\" with the pulsating light from beacons. The \"ground\" was simply the simulator's date-time function derived from its hapless electromechanical hardware along with \"Windows OS + JVM + JRE + Tcl\" stack. \n\n<p>This Rube Golderg Machine like experimental setup also generated every pixle of the virtual scene within the simulator. The scene would initalize once a key piece of the puzzle called \"the anonymized human participant\" could suitably place themselves into the setup after clearing their demographics survey. \n"
+      },
+      "group": "4",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://drive.google.com/file/d/1ihQEA9ry6c7i01DQj5MBSWjXsMoCzt4P/view?usp=sharing",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2009",
+        "month": "1",
+        "day": ""
+      },
+      "end_date": {
+        "year": "",
+        "month": "",
+        "day": ""
+      },
+      "text": {
+        "headline": "Subliminal Traffic Control",
+        "text": "<p>The mathematical model shown in the image illustrates the significance of special relativity and ecology on human cognition using classical mechanics based optical <a href=\"https://en.wikipedia.org/wiki/Phi_phenomenon\">phi phenomenon</a>. Details available here: <a href=\"https://ir.uiowa.edu/etd/689/\">https://ir.uiowa.edu/etd/689/</a>\n\n<p>The driving simulator based research indicated that drivers' understanding of their motion over ground could be alatered via pulses of light incident on their eyes' <a href=\"https://en.wikipedia.org/wiki/Peripheral_vision\">peripheral field of vision</a>. \n"
+      },
+      "group": "4",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://drive.google.com/file/d/1gwi9c4qezLSI8XAV5zwwvpNb4J6fZVet/view?usp=sharing",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2009",
+        "month": "5",
+        "day": ""
+      },
+      "end_date": {
+        "year": "",
+        "month": "",
+        "day": ""
+      },
+      "text": {
+        "headline": "Belief, Attitude & Action",
+        "text": "<p>Driver's abrupt breaking or too rapid acceleration behavior (left hand graph) rectified subliminally using flashing lights on roadway markers (right hand graph). The participants drove for 45 mins on a 120 mile road with simulated highway workzone conditions at regular intervals. The conditions were designed to have synchronized or pseudo-random flashing lights and static lights on workzone markers.\n<p>A person could be made to believe they were driving around 70 km/h while driving at 50 km/h using a particular formulation of synchronized flashing lights within the simulator. Inducing a belief of moving at a much slower speed than the car's actual speed was also demonstrable. The word \"actual\" is used here in the context of the simulator's build. \n<p>The induced belief (and possibly subsequent change to assumed risk of conceived speed) had systematic correlations with drivers' actions in using break and accelerator pedals to maintain the car's actual driving speed. The outcome was that driving speed across almost all test participants was brought within the culturally prescribed range without the use of obtrusive signage, speed humps, police vehicles etc. in the simulator.   \n<p>(Zoom into image to see details) "
+      },
+      "group": "4",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://images.gr-assets.com/books/1386921981l/258138.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2009",
+        "month": "9",
+        "day": ""
+      },
+      "end_date": {
+        "year": "2010",
+        "month": "04",
+        "day": ""
+      },
+      "text": {
+        "headline": "Tutoring",
+        "text": "<p><b>Teaching Assistant</b>\n<br>University of Iowa,\n<br>Iowa City, Iowa, USA.\n<p>Tutored for Discrete Systems Simulation, Statistical Learning & Stochastic Modeling and Engineering Economics."
+      },
+      "group": "3",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://www.kirkwood.edu/images/kirkwood_nameplate_blue.png",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2010",
+        "month": "8",
+        "day": ""
+      },
+      "end_date": {
+        "year": "2011",
+        "month": "01",
+        "day": ""
+      },
+      "text": {
+        "headline": "Teaching\n",
+        "text": "<p><b>Adjunct Faculty</b>\n<br>Kirkwood Community College,\n<br>Cedar Rapids, Iowa, USA.\n<p>Taught Algebra, Human Computer Interaction and <br>Computer Aided Design."
+      },
+      "group": "2",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://i.ibb.co/wMBmw50/vHfXNIU.jpg",
+        "credit": "",
+        "caption": "UHyderabad Campus",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2012",
+        "month": "7",
+        "day": ""
+      },
+      "end_date": {
+        "year": "2015",
+        "month": "5",
+        "day": ""
+      },
+      "text": {
+        "headline": "PhD Neuroscience",
+        "text": "<p><b>Junior Research Scientist</b>\n<br>University of Hyderabad, \n<br>Hyderabad, India\n<br><ul>\n             <li>Completed courses on information theory, image processing, computer vision and machine learning\n             <li>Received training on the use of Eye Tracking, EEG and fMRI to investigate neural correlates of cognition\n             <li>Visiting Research Fellow at University of Trento, Trento, Italy (May to Aug 2014) where I conduct fMRI based cognitive neuroscience experiments\n             <li>Quit the PhD program after 3 years of study in order to commercialize my findings\n      </ul>"
+      },
+      "group": "2",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://i.ibb.co/T8SzY2S/CsF98Nc.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2014",
+        "month": "5",
+        "day": ""
+      },
+      "end_date": {
+        "year": "",
+        "month": "",
+        "day": ""
+      },
+      "text": {
+        "headline": "fMRI Research",
+        "text": "<p>My graduate research at University of Hyderabad and University of Trento in neurology and signal processing used functional Magnetic Resonence Imaging (fMRI) to study how healthy vurses neurologically impaired individuals direct our sense of time, navigation and kinesthetic skills. \n\n<p>This research lead me to discover the neurology of dementias that is <a href=\"https://bit.ly/2UYcCbv\">summarised here</a>.\n\n<p><a href=\"https://en.wikipedia.org/wiki/Neuroimaging\">Neuroimaging Wikipedia Article</a>."
+      },
+      "group": "3",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://i.ibb.co/zShc3pL/baransoft-logo.png",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2013",
+        "month": "9",
+        "day": ""
+      },
+      "end_date": {
+        "year": "2015",
+        "month": "5",
+        "day": ""
+      },
+      "text": {
+        "headline": "Software Engineering",
+        "text": "<p><b>Product Manager & Interaction Designer</b>\n<br>BaraanSoft Pvt. Ltd.\n<br>Hyderabad, India\n<br><ul>\n             <li>Responsible for a team of 12 software developers among three different projects\n             <li>Developed Technical Requirements Document for Android and iOS software aimed at collecting user\u2019s mobile phone interaction\n             <li>Managed the company's recruitment drive for the year 2014\n      </ul>"
+      },
+      "group": "2"
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/UHpwOJG-3LU",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2014",
+        "month": "10",
+        "day": ""
+      },
+      "end_date": {
+        "year": "",
+        "month": "",
+        "day": ""
+      },
+      "text": {
+        "headline": "SoRate Software & Services",
+        "text": "<p>The enterprise cloud-based platform provided real-time business intelligence for Target Metric Point (TRP) rating of TV broadcast programs. \n<p>SoRate corellated realtime social media activity of all Turkish language users in Mediterranean region with their TV show viewership using the household's television set-top box i.e. media hub or router. \n<p>My contribution was in developing face recognition system for user behavior analysis. It used the optical and audio sensors of the media hub and screens connected for home television and internet bundle subscription. I was also the main business development and sales contact for SoRate in India and Bulgaria. "
+      },
+      "group": "4"
+    },
+    {
+      "media": {
+        "url": "https://uwaterloo.ca/math/sites/ca.math/files/uploads/images/campus-aerial-east-side.jpg",
+        "credit": "",
+        "caption": "UWaterloo Campus",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2015",
+        "month": "7",
+        "day": ""
+      },
+      "end_date": {
+        "year": "2016",
+        "month": "08",
+        "day": ""
+      },
+      "text": {
+        "headline": "Masters of Business, Entrepreneurship & Technology",
+        "text": "<p><b>Graduate Student</b>\n<br>Conrad School of Business & Entrepreneurship, \n<br>University of Waterloo,\n<br>Waterloo, Ontario, Canada"
+      },
+      "group": "2",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "<iframe src=\"https://spark.adobe.com/video/vuWVZPte1CmJc/embed\" width=\"100%\" height=\"100%\" frameborder=\"0\" allow-scripts allowfullscreen></iframe>",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2015",
+        "month": "12",
+        "day": ""
+      },
+      "end_date": {
+        "year": "",
+        "month": "",
+        "day": ""
+      },
+      "text": {
+        "headline": "Project TableTop",
+        "text": "<p>Prototyped a multitouch screen with ordinary frosted glass surface. The video shows software framework created to support multiple users simultaneously interacting from multiple directions of the touch table. Copyright (2014 - 2021) Sameer Khan. All rights reserved.  \n<ul>OS & Hardware: \n  <li>Ubuntu 14.04 on Intel NUC with USB Projector and Camera\n</ul>\n<ul>Frameworks: \n  <li>Python bindings of OpenSSH, OpenCV and Kivy"
+      },
+      "group": "3",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://youtu.be/1CTotGpnpzA",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2016",
+        "month": "5",
+        "day": ""
+      },
+      "end_date": {
+        "year": "2021",
+        "month": "7",
+        "day": ""
+      },
+      "text": {
+        "headline": "BrightGuide Inc",
+        "text": "<p>CoFounded BrightGuide the company to help people with neurological injury or disease to go through daily activities by watching themselves in their motivating videos."
+      },
+      "group": "2"
+    },
+    {
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2018",
+        "month": "4",
+        "day": ""
+      },
+      "end_date": {
+        "year": "",
+        "month": "",
+        "day": ""
+      },
+      "text": {
+        "headline": "BrightGuide Impact",
+        "text": "<p>Trudy regained her ability to play the piano at age 92. She had been unable to do so since her hemorrhagic stroke in 2012. \n<p>Trudy still suffers from dementia-like symptoms with acute memory loss but continues to stay active by playing piano daily. She is able to age in place at Trinity Village, Kitchener by watching encouraging videos of herself. "
+      },
+      "group": "4"
+    },
+    {
+      "media": {
+        "url": "https://i.ibb.co/gDByXKy/8fea6ae3-decd-4b80-af15-17154b621243.jpg",
+        "credit": "",
+        "caption": "Prototype version of BrightGuide App on a  tablet",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2018",
+        "month": "12",
+        "day": ""
+      },
+      "end_date": {
+        "year": "",
+        "month": "",
+        "day": ""
+      },
+      "text": {
+        "headline": "BrightGuide Case Study ",
+        "text": "<p>The following case study shows my work in usability testing with user interviews and user experience mapping (qualitative research). It documents BrightGuide's evolution from idea to prototypes to a commercial app. The final app is cloud based, cross platform and responsive.  \n<p>The material presented in this case study is extensive but even scrolling through it may provide an overview of my research and development process: <a href=\"https://challenges.openideo.com/challenge/caregiving-dementia/ideas/brightguide-relearn-your-daily-activities-by-watching-videos-of-yourself\">BrighGuide App Dev Cycles</a>"
+      },
+      "group": "3"
+    },
+    {
+      "media": {
+        "url": "",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": "7",
+        "day": ""
+      },
+      "end_date": {
+        "year": "",
+        "month": "",
+        "day": ""
+      },
+      "text": {
+        "headline": "Summary",
+        "text": "<p>My expertise is in systems engineering. This is mainly applicable to projects concerning ethics, public safety, usability, neuro-psychology and financial forecasting. I have earned 10+ years of experience as a technical chief in private consulting. More signifanctly than this, I consider myself fortunate for earning several higher degrees, loved ones, freedom and a home."
+      },
+      "group": "2",
+      "background": {
+        "color": "#000000"
+      }
+    },
+    {
+      "media": {
+        "url": "https://i.ibb.co/2hkJpRR/eng-psy-biz.jpg",
+        "credit": "",
+        "caption": "",
+        "thumbnail": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": "7",
+        "day": "22"
+      },
+      "end_date": {
+        "year": "",
+        "month": "",
+        "day": ""
+      },
+      "text": {
+        "headline": "Sameer Khan",
+        "text": "<p>This portfolio showcases my quantitative and qualitative skills employable in industry and academia.\n<p>My passion is to create authentic management solutions for \"cultural issues that involve complex socio-technical factors.\"\n<p>To navigate this reverse-chronology portfolio use:\n      <ul>\n            <li>The arrow at the screen's left and right edge</li>\n            <li>The timeline scrollbar at the screen's bottom edge</li>\n      </ul>"
+      },
+      "group": "2",
+      "background": {
+        "color": "#000000"
+      }
+    }
+  ],
+  "title": {
+    "media": {
+      "url": "https://i.ibb.co/jbtLCGs/DWtDysr.jpg",
+      "credit": "",
+      "caption": "Pragmatism",
+      "thumbnail": ""
+    },
+    "start_date": {
+      "year": "",
+      "month": "",
+      "day": ""
+    },
+    "end_date": {
+      "year": "",
+      "month": "",
+      "day": ""
+    },
+    "text": {
+      "headline": "Sameer Khan",
+      "text": "<p>Systems engineer specializing in<br> \nHuman Factors & Cognitive Science\n<p>View: <a href=\"https://www.linkedin.com/in/sam-khan-ca/\">LinkedIn Profile</a>\n<p>\n<p><i>The past has ceased to exist, except for the retrospective.\n           <br>The present only exists, as insights for the introspective.\n           <br>The future has yet to exist, except for the prospective.\n           <br>And although, there is mere existence, for the circumspective,\n           <br>The Void is neither presence nor absence.\n       </i>\n\n<p>. . . <br>. . <br>. <br>\n"
+    },
+    "group": "1"
+  }
+}
