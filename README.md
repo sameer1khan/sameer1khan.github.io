@@ -1,5 +1,5 @@
 # sameer1khan.github.io
-A timeline of work and eduction history using TimelineJS. 
+A timeline of work and education history using KnightLab's TimelineJS3. 
 
 ### Purpose
 This was an experiment to see how timeline.js can be used with a json file.
